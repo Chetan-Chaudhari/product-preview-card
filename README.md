@@ -12,7 +12,7 @@ This project demonstrates responsive images, Flexbox layouts, and clean UI styli
 </p>
 
 Live Demo:
-👉 https://chetan-chaudhari.github.io/Recipe-page/
+👉 https://chetan-chaudhari.github.io/product-preview-card/
 
 (Replace this URL if needed)
 
