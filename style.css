@@ -87,6 +87,7 @@ article {
   display: flex;
   align-items: center;
   gap: 10px;
+  font-family: Fraunces;
 }
 .original-price {
   text-decoration: line-through;
